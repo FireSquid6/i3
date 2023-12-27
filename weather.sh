@@ -1,2 +1,0 @@
-#!/bin/bash
-curl https://wttr.in?format=3
